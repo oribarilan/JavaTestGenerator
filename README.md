@@ -1,2 +1,2 @@
 # JavaTestGenerator
-Tests generator for java projects
+A Pyhon test generator utility script for Java projects.
