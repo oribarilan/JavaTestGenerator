@@ -3,10 +3,10 @@ A Pyhon test generator utility script for Java projects.
 Created by Aviram Adiri & Ori Bar-ilan
 
 ## Credits
-This project wraps the (Randoop)[https://randoop.github.io/randoop/) test generator for ease-of-use.
+This project wraps the (Randoop) [https://randoop.github.io/randoop/) test generator for ease-of-use.
 
 ## Installation
-- Install (Java SE Development Kit 8)[http://www.oracle.com/technetwork/java/javase/downloads/jdk8-downloads-2133151.html] (well, duh)
+- Install (Java SE Development Kit 8) [http://www.oracle.com/technetwork/java/javase/downloads/jdk8-downloads-2133151.html] (well, duh)
 - Add `jdk\bin` folder to the PATH system variable of the environment variables
 	> For example, the default Java 8 installation for Windows will place the jdk\bin folder at:
 	> `C:\Program Files\Java\jdk1.8.0_131\bin`
