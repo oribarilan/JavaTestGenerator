@@ -3,10 +3,12 @@ A Pyhon test generator utility script for Java projects
 
 Created by Aviram Adiri & Ori Bar-ilan
 
-## Credits
+## Description
 This project wraps the [Randoop](https://randoop.github.io/randoop/ "Randoop") test generator for ease-of-use
 
 This project contains 2 Java projects as examples of potential target projects and the generated Java test classes outputted by this script
+
+This project tested for targeting Core Java projects. Applying it on other technologies, such as Java Servelets, Android application etc. is not gauranteed.
 
 ## Installation
 - Install [Java SE Development Kit 8](http://www.oracle.com/technetwork/java/javase/downloads/jdk8-downloads-2133151.html "JDK") (well, duh)
