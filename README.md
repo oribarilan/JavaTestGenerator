@@ -8,7 +8,7 @@ This project wraps the [Randoop](https://randoop.github.io/randoop/ "Randoop") t
 
 This project contains 2 Java projects as examples of potential target projects and the generated Java test classes outputted by this script
 
-This project tested for targeting Core Java projects. Applying it on other technologies, such as Java Servelets, Android application etc. is not gauranteed.
+This project targets Core Java applications. Applying it on other technologies, such as Java Servelets, Android applications etc. is not gauranteed to work properly
 
 ## Installation
 - Install [Java SE Development Kit 8](http://www.oracle.com/technetwork/java/javase/downloads/jdk8-downloads-2133151.html "JDK") (well, duh)
