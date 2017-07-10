@@ -1,10 +1,12 @@
 # JavaTestGenerator
-A Pyhon test generator utility script for Java projects.
+A Pyhon test generator utility script for Java projects
 
 Created by Aviram Adiri & Ori Bar-ilan
 
 ## Credits
-This project wraps the [Randoop](https://randoop.github.io/randoop/ "Randoop") test generator for ease-of-use.
+This project wraps the [Randoop](https://randoop.github.io/randoop/ "Randoop") test generator for ease-of-use
+
+This project contains 2 Java projects as examples of potential target projects and the generated Java test classes outputted by this script
 
 ## Installation
 - Install [Java SE Development Kit 8](http://www.oracle.com/technetwork/java/javase/downloads/jdk8-downloads-2133151.html "JDK") (well, duh)
@@ -29,5 +31,18 @@ This project wraps the [Randoop](https://randoop.github.io/randoop/ "Randoop") t
 - Additionally, you can add `> output.txt` to the invokation in order to save the output to a text file
 	> For Example: 
 	>	*	`python testgen.py "C:\MyJavaWorkspace\MyJavaProject\" > output.txt`
-	
-### Enjoy!
+
+## Examples
+All examples contain `Generated_Test_Classes` folder at their root folder, that contains the generated Java test classes outputted by the script
+
+### 1. Calculator
+Credit to [Jim](https://codereview.stackexchange.com/users/29439/jim) for [this code](https://codereview.stackexchange.com/questions/30950/simple-calculator-in-java) found at Stackexchange
+
+In this project, the user can perform simple math operation via a command line interface
+
+### 2. OnlineTest
+Credit to (javatpoint)[https://www.javatpoint.com] for [this code](https://www.javatpoint.com/online-exam-project-in-java-swing-without-database)
+
+In this project, the user is given questions to be answered via a GUI
+
+#### Enjoy!
