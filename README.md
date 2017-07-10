@@ -20,8 +20,8 @@ This project wraps the [Randoop](https://randoop.github.io/randoop/ "Randoop") t
 ## Run
 - Run `testgen.py` together with a `rootpath` argument (and optionally a `timeout` argument)
 	> For Example: 
-	*	`python testgen.py "C:\MyJavaWorkspace\MyJavaProject\"` *(a default timeout of 60 seconds will be set)*
-	*	`python testgen.py "C:\MyJavaWorkspace\MyJavaProject\" 30`
+	>	*	`python testgen.py "C:\MyJavaWorkspace\MyJavaProject\"` *(a default timeout of 60 seconds will be set)*
+	>	*	`python testgen.py "C:\MyJavaWorkspace\MyJavaProject\" 30`
 - Run `testgen.py -help` for help
 
 ## Output
