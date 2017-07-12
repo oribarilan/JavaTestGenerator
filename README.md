@@ -40,7 +40,7 @@ All examples contain `Generated_Test_Classes` folder at their root folder, that 
 ### 1. Calculator
 Credit to [Jim](https://codereview.stackexchange.com/users/29439/jim) for [this code](https://codereview.stackexchange.com/questions/30950/simple-calculator-in-java) found at Stackexchange
 
-In this project, the user can perform simple math operation via a command line interface
+In this project, the user can perform simple math operations via a command line interface
 
 ### 2. OnlineTest
 Credit to [javatpoint](https://www.javatpoint.com) for [this code](https://www.javatpoint.com/online-exam-project-in-java-swing-without-database)
