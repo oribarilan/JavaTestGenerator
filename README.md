@@ -43,7 +43,7 @@ Credit to [Jim](https://codereview.stackexchange.com/users/29439/jim) for [this 
 In this project, the user can perform simple math operation via a command line interface
 
 ### 2. OnlineTest
-Credit to (javatpoint)[https://www.javatpoint.com] for [this code](https://www.javatpoint.com/online-exam-project-in-java-swing-without-database)
+Credit to [javatpoint](https://www.javatpoint.com) for [this code](https://www.javatpoint.com/online-exam-project-in-java-swing-without-database)
 
 In this project, the user is given questions to be answered via a GUI
 
