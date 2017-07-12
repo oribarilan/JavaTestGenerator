@@ -15,11 +15,11 @@ This project targets Core Java applications. Applying it on other technologies, 
 - Add `jdk\bin` folder to the `PATH` system variable of the environment variables
 	> For example, the default Java 8 installation for Windows will place the `jdk\bin` folder at:
 	> `C:\Program Files\Java\jdk1.8.0_131\bin`
-- Add `jre` folder as a new system variable of environment variables. The name of the variable should be `JAVA_HOME`
-	> For example, the default Java 8 installation for Windows will place the `jre` folder at:
-	> `C:\Program Files\Java\jre1.8.0_131`
+- Add `jdk` folder as a new system variable of environment variables. The name of the variable should be `JAVA_HOME`
 - Make sure both `java` and `javac` commands are valid cmd commands
 - Copy `tools.jar` from `jdk\lib` to `jre\lib`
+	> For example, the default Java 8 installation for Windows will place the `jre\lib` folder at:
+	> `C:\Program Files\Java\jre1.8.0_131\lib`
 
 ## Run
 - Run `testgen.py` together with a `rootpath` argument (and optionally a `timeout` argument)
