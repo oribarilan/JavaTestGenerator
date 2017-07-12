@@ -15,9 +15,9 @@ This project targets Core Java applications. Applying it on other technologies, 
 - Add `jdk\bin` folder to the `PATH` system variable of the environment variables
 	> For example, the default Java 8 installation for Windows will place the `jdk\bin` folder at:
 	> `C:\Program Files\Java\jdk1.8.0_131\bin`
-- Add `jdk` folder as a new system variable of environment variables. The name of the variable should be `JAVA_HOME`
-	> For example, the default Java 8 installation for Windows will place the `jre\bin` folder at:
-	> `C:\Program Files\Java\jre1.8.0_131\bin`
+- Add `jre` folder as a new system variable of environment variables. The name of the variable should be `JAVA_HOME`
+	> For example, the default Java 8 installation for Windows will place the `jre` folder at:
+	> `C:\Program Files\Java\jre1.8.0_131`
 - Make sure both `java` and `javac` commands are valid cmd commands
 - Copy `tools.jar` from `jdk\lib` to `jre\lib`
 
@@ -35,7 +35,7 @@ This project targets Core Java applications. Applying it on other technologies, 
 	>	*	`python testgen.py "C:\MyJavaWorkspace\MyJavaProject\" > output.txt`
 
 ## Examples
-All examples contain `Generated_Test_Classes` folder at their root folder, that contains the generated Java test classes outputted by the script
+All examples contain `Generated_Test_Classes` folder at their root folder, each contain the generated Java test classes outputted by the script
 
 ### 1. Calculator
 Credit to [Jim](https://codereview.stackexchange.com/users/29439/jim) for [this code](https://codereview.stackexchange.com/questions/30950/simple-calculator-in-java) found at Stackexchange
